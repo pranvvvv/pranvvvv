@@ -1,79 +1,24 @@
-<h2 align="left">Hi 👋, I’m <b>Pranav</b> — an <b>AI Developer & Full-Stack Web Dev & Engineer</b> passionate about building intelligent, data-driven, and human-centric systems.</h2>
+# 💫 About Me:
+🔭 I’m currently working on<br>Building modern, animated websites and AI-powered solutions through WebXp, focusing on high-performance UI and user experience.<br><br>🤝 I’m looking to collaborate on<br>Startup projects, SaaS products, AI tools, and creative web experiences that solve real-world problems.<br><br>🆘 I’m looking for help with<br>Scaling products, system architecture decisions, and exploring growth opportunities in tech startups.<br><br>🌱 I’m currently learning<br>Advanced AI integrations, scalable frontend architectures, and motion-driven web design.<br><br>💬 Ask me about<br>Frontend development (React, Next.js), website animations, AI applications, and startup building.<br><br>⚡ Fun fact<br>I turn ideas into products faster than most people write project plans.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranav64_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiva-pranav-888a76340/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shiva pranav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavdevlpr18@gmail.com ) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranvvvv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pranvvvv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranvvvv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranvvvv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pranvvvv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pranvvvv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pranvvvv&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="160" alt="pranvvvv’s GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranvvvv&layout=compact&theme=dracula" height="160" alt="pranvvvv’s top languages" />
-</div>
-
----
-
-### 🧠 About Me  
-I’m an AI developer focused on creating **next-gen automation, intelligent assistants, and scalable web systems** powered by machine learning.  
-- 🔭 Currently building: **Jarvis AI & Igris.AI** — smart assistants using LLMs and automation.  
-- 🌱 Learning: **MLOps**, **LLM Fine-Tuning**, **RAG**, and **AI Agentic Systems**.  
-- ⚙️ Experienced with **NLP, Computer Vision, PyTorch, TensorFlow, FastAPI, React, and Next.js**.  
-- 💬 Ask me about **AI integration, automation pipelines, full-stack development**, or **agentic workflows**.  
-- 🚀 Mission: Build AI tools that think, assist, and scale human creativity.  
-- ⚡ Fun fact: I love blending code, art, and intelligence into meaningful experiences.
-
----
-
-### 🛠️ Technologies & Tools  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="35" alt="AWS" />  
-</div>
-
----
-
-### 📂 Featured Projects  
-Here are a few of my highlighted projects:  
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Jarvis AI** | A personal voice-based assistant powered by Groq API & Llama3, with real-time reasoning and GUI built in PyQt5. | Python, PyQt5, Llama3, Groq API |
-| **Igris.AI** | AI-based automation and business assistant for managing workflows, calls, and analytics. | Python, FastAPI, React, Twilio |
-| **WebXp** | A modern website building and hosting platform for businesses. | Next.js, Firebase, Tailwind |
-| **E-MSA** | Dealer–seller phenyl connection app with AI-assisted dashboard. | Flutter, Firebase, Python |
-| **GridFlow** | AI traffic optimization system using IoT and real-time camera data. | Python, OpenCV, TensorFlow |
-
----
-
-### 📫 Connect with Me  
-<div align="left">
-  <a href="https:https://www.linkedin.com/in/shiva-pranav-888a76340/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:pranavdevlpr18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https:https://www.instagram.com/_pranav64_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🔥 Stats & Extras  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranvvvv&theme=dark&background=000000" height="180" alt="GitHub Streak" />
-</div>
-
-- 🧩 Check out my recent blog posts / updates:  
-  1. [Building Jarvis AI with Groq & PyQt5](#)  
-  2. [How I Integrated AI Agents into Business Systems](#)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
